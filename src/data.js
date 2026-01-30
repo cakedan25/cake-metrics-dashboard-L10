@@ -1,5 +1,5 @@
 // CAKE Weekly Metrics Data
-// Last updated: January 23, 2026 (Week 3)
+// Last updated: January 30, 2026 (Week 4)
 // This file is updated automatically each Friday
 
 export const weeklyData = [
@@ -56,8 +56,26 @@ export const weeklyData = [
         azArCollected: 5596,
         nvArCollected: 20987,
         pulseCheck: 4.3
+  },
+  {
+        week: 'Week 4',
+        dateRange: 'Jan 23-29',
+        caSalesUnits: 50110,
+        caSalesDollars: 452959,
+        caPromoUnits: 2330,
+        caUnitsManufactured: 118911,
+        cogsPercent: 41.1,
+        caOrdersDelivered: 104,
+        azSalesUnits: null,
+        azSalesDollars: null,
+        nvSalesUnits: null,
+        nvSalesDollars: null,
+        caArCollected: null,
+        azArCollected: null,
+        nvArCollected: null,
+        pulseCheck: null
   }
   ];
 
-export const lastUpdated = 'January 23, 2026';
-export const currentWeek = 3;
+export const lastUpdated = 'January 30, 2026';
+export const currentWeek = 4;
